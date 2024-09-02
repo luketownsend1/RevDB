@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=RevDB
+Exec=~/RevDB/RevDB.sh
+StartupNotify=true
+Terminal=true
+Type=Application
