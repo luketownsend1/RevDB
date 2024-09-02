@@ -1,6 +1,8 @@
 # RevDB
 A shell script designed with shortcuts for using ADB with a REV Robotics Control Hub.
 
+![there should be a preview here...](https://github.com/luketownsend1/RevDB/blob/main/RevDBmenu.png)
+
 ## Installation
 
 Ensure that you have the Android Debug Bridge installed before moving on.
