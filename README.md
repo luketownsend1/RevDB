@@ -23,3 +23,6 @@ Ensure that you have the Android Debug Bridge installed before moving on.
 3. Run `chmod -x ~/RevDB/RevDB.sh`. This will make the script an executable.
 4. The repository should've cloned to your home directory. Navigate there with a file manager of your choosing and move `RevDB.desktop` to the desktop or another easily accessible directory.
 5. When wanting to use RevDB, run `RevDB.desktop`. This will automatically start the script in your default terminal.
+
+## Troubleshooting 
+If you're having trouble on Windows, please submit an issue and I'll get to it as soon as I can. I'm running Linux currently, so I would have to be on Windows to debug the batch file.
